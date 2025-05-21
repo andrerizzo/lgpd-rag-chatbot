@@ -1,0 +1,16 @@
+ipykernel
+dotenv
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain_chroma
+langchain-groq
+langchain-huggingface
+huggingface_hub[hf_xet]
+beautifulsoup4
+pypdf
+gradio
+jupyter
+ipywidgets

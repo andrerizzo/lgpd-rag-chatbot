@@ -1,0 +1,27 @@
+.mypy_cache
+.env
+.venv/
+
+__pycache__
+
+# Base vetorial local
+vector_db/
+vector_db_open/
+*.sqlite3
+*.db
+
+# Dados locais (se quiser evitar subir os arquivos PDF originais)
+data/guias_anpd
+data/guias_diversos
+data/jurisprudencia
+data/lei
+
+# Arquivos do Jupyter
+.ipynb_checkpoints/
+
+# Outros arquivos do VSCode ou editor
+.vscode/
+.DS_Store
+Thumbs.db
+
+ChatbotWithRAG_OpenSource.ipynb
