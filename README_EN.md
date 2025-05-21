@@ -22,7 +22,7 @@ This project implements a complete Retrieval-Augmented Generation (RAG) pipeline
 
 ```
 .
-├── app.py                    # Main execution script
+├── main.py                    # Main execution script
 ├── data/                     # Folder for PDF documents (LGPD, etc.)
 ├── .env                      # OpenAI API Key file
 ├── src/
@@ -57,7 +57,7 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 4. **Run the project:**
 
 ```bash
-python app.py
+python main.py
 ```
 
 5. **Access the interactive chat UI in your browser.**

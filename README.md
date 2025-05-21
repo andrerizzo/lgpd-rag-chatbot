@@ -22,7 +22,7 @@ Este projeto implementa um pipeline completo de RAG (*Retrieval-Augmented Genera
 
 ```
 .
-├── app.py                    # Script principal
+├── main.py                    # Script principal
 ├── data/                     # Pasta com documentos PDF (LGPD, etc.)
 ├── .env                      # Chave da API OpenAI
 ├── src/
@@ -97,4 +97,4 @@ Pull requests são bem-vindos. Para sugestões, dúvidas ou bugs, abra uma issue
 
 ## Autor
 
-Desenvolvido por **André Rizzo** — [LinkedIn](https://www.linkedin.com/in/andrerizzo)
+Desenvolvido por **André Rizzo** — [LinkedIn](https://www.linkedin.com/in/andrerizzo1)
